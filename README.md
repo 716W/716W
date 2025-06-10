@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Bin Sumida</h1>
-<h3 align="center">.NET Developer | Full Stack Developer | Problem Solver</h3>
+<h3 align="center">.NET Backend Developer | Software Engineer | Clean Code Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=716W&label=Profile%20views&color=0e75b6&style=flat" alt="716W" />
@@ -9,25 +9,35 @@
 
 ### 💼 About Me
 
-- 💻 I'm a .NET Developer with experience in **ASP.NET MVC** and **Blazor**
-- 🖥️ Skilled in both backend and frontend as a **full stack developer**
-- 🧠 Passionate about **problem solving** and writing clean, efficient code
-- 📌 Projects will be shared soon
+I'm a **Software Engineer** specializing in **web backend development** using the .NET ecosystem.  
+I also build **full stack desktop applications**, but this GitHub mainly showcases my work in **web technologies**.
+
+I'm passionate about:
+- Designing scalable and maintainable systems using **Clean Architecture**
+- Applying **Domain-Driven Design (DDD)** and **SOLID principles**
+- Writing clean, testable, and efficient code
+
+Always learning, always building. 🚀
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</p>
+#### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#### ⚙️ Frameworks & Tools
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET-MVC-0078D7?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+
+
+#### 🧰 Architecture & Patterns
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-007ACC?style=for-the-badge&logo=architect&logoColor=white)
+![DDD](https://img.shields.io/badge/Domain--Driven%20Design-6E4FFF?style=for-the-badge&logo=databricks&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID-Principles-blueviolet?style=for-the-badge&logo=code&logoColor=white)
 
 ---
 
@@ -52,15 +62,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=716W&theme=gruvbox" />
 </p>
 
----
 
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-bin-samida-4341a234a)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/716W)
-
----
-
-### 🐍 Contribution Graph
-
-![GitHub Snake animation](https://github.com/716W/716W/blob/output/github-contribution-grid-snake.svg)
