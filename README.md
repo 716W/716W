@@ -1,25 +1,24 @@
 <h1 align="center">Hi 👋, I'm Ali Bin Sumida</h1>
-<h3 align="center">.NET Backend Developer | Full-Stack Desktop | Clean Architecture Enthusiast</h3>
+<h3 align="center"> Backend Developer | ASP Developer | Clean Architecture Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=716W&label=Profile%20views&color=0e75b6&style=flat" alt="716W" />
 </p>
 
 ---
-
 ### 💼 About Me
 
-I'm a **Software Engineer** specializing in **web backend development** using the .NET ecosystem.  
-I also build **full stack desktop applications**, but this GitHub mainly showcases my work in **web technologies**.
+I'm a **Computer Science student** at Hadramout University and a passionate **Backend Developer** specializing in the .NET ecosystem.
 
-I'm passionate about:
-- Designing scalable and maintainable systems using **Clean Architecture**
-- Building robust, RESTful **Web APIs** with **clean layering and separation of concerns**
-- Applying **Domain-Driven Design (DDD)** and **SOLID principles**
-- Writing clean, testable, and efficient code
+I'm deeply interested in designing and building **robust, scalable, and well-structured Web APIs** that follow modern software engineering best practices.
 
-Always learning, always building. 🚀
+Driven by curiosity and a love for clean code, I focus on:
+- Applying **Clean Architecture** to create maintainable and testable systems  
+- Embracing **Domain-Driven Design (DDD)** for better domain modeling  
+- Following **SOLID principles** to ensure clear separation of concerns  
+- Writing efficient, readable, and future-ready code  
 
+I'm always learning, refining my skills, and building real-world solutions — fueled by passion and purpose. 🚀
 ---
 
 ### 🛠️ Tech Stack
